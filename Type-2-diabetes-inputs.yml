@@ -1,0 +1,57 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/other-type-2-diabetes---icduncat.py
+inputModule3:
+  class: File
+  path: python/type-2-diabetes-hyperosmolarity---icduncat.py
+inputModule4:
+  class: File
+  path: python/type-2-diabetes-unspecified---icduncat.py
+inputModule5:
+  class: File
+  path: python/peripheral-type-2-diabetes---icduncat.py
+inputModule6:
+  class: File
+  path: python/neurological-type-2-diabetes---icduncat.py
+inputModule7:
+  class: File
+  path: python/opthalamic-type-2-diabetes---icduncat.py
+inputModule8:
+  class: File
+  path: python/renal-type-2-diabetes---icduncat.py
+inputModule9:
+  class: File
+  path: python/type-2-diabetes-mention---icduncat.py
+inputModule10:
+  class: File
+  path: python/type-2-diabetes-kidney---icduncat.py
+inputModule11:
+  class: File
+  path: python/nonproliferative-type-2-diabetes---icduncat.py
+inputModule12:
+  class: File
+  path: python/moderate-type-2-diabetes---icduncat.py
+inputModule13:
+  class: File
+  path: python/type-2-diabetes-sever---icduncat.py
+inputModule14:
+  class: File
+  path: python/type-2-diabetes---icduncat.py
+inputModule15:
+  class: File
+  path: python/type-2-diabetes-circulatory---icduncat.py
+inputModule16:
+  class: File
+  path: python/arthropathy-type-2-diabetes---icduncat.py
+inputModule17:
+  class: File
+  path: python/type-2-diabetes-mellitus---icduncat.py
+inputModule18:
+  class: File
+  path: python/type-2-diabetes-hypoglycemia---icduncat.py
+inputModule19:
+  class: File
+  path: python/output-cases.py
